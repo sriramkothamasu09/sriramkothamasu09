@@ -5,10 +5,13 @@
 I have 4+ years of applied research experience in machine learning, deep learning and hyperspectral imaging, with **3 peer-reviewed publications** and **3 patents (1 granted)**. I'm now focused on **Generative AI, Agentic AI and real-world AI engineering**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kesava-sriram-kothamasu-22027224b/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=VdXZfzMAAAAJ)
 
 ---
 
 ## 🔬 Research
+
+All my publications are on [Google Scholar](https://scholar.google.com/citations?user=VdXZfzMAAAAJ).
 
 | Publication | Venue | What I did |
 |---|---|---|
