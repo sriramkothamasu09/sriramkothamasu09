@@ -9,6 +9,13 @@ I have 4+ years of applied research experience in machine learning, deep learnin
 
 ---
 
+## ⭐ Featured project
+
+### [Sleep Stage Classification with CRFs and a Bayesian Network](https://github.com/sriramkothamasu09/sleep-staging-crf-bayesnet)
+End-to-end ML project on single-channel EEG features: data cleaning, subject-grouped cross-validation, feature engineering, a **BiGRU-CRF** that stages every 30-second epoch (macro F1 **0.766** on unseen people), a **Bayesian network** that reasons about insomnia, and a tested **Streamlit** triage app.
+
+`PyTorch` `CRF` `Bayesian networks` `pgmpy` `scikit-learn` `Streamlit` `pytest`
+
 ## 🔬 Research
 
 All my publications are on [Google Scholar](https://scholar.google.com/citations?user=VdXZfzMAAAAJ).
